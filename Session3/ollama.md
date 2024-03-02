@@ -12,7 +12,7 @@ Hopefully you have all installed ollama.
 		```ollama serve```
 		![alt text](./images/ollama/ollama_serve.png)
 	- can you access the APIs using CURL ?
-		```curl http://localhost:11434/api/generate -d '{
+	  	curl http://localhost:11434/api/generate -d '{
   			"model": "phi",
 			"prompt":"Why is the sky blue?"
-			}'```
+			}'
