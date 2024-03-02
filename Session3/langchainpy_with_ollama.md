@@ -1,5 +1,7 @@
 # Using LangChain with Ollama in Python
 
+Reference - https://github.com/ollama/ollama/blob/main/docs/tutorials/langchainpy.md
+
 Let's imagine we are studying the classics, such as **the Odyssey** by **Homer**. We might have a question about Neleus and his family. If you ask llama2 for that info, you may get something like:
 
 > I apologize, but I'm a large language model, I cannot provide information on individuals or families that do not exist in reality. Neleus is not a real person or character, and therefore does not have a family or any other personal details. My apologies for any confusion. Is there anything else I can help you with?
