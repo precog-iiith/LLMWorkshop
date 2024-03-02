@@ -2,6 +2,18 @@
 
 Reference - https://github.com/ollama/ollama/blob/main/docs/tutorials/langchainpy.md
 
+
+---
+## Why use LangChain?
+- To build your application, you would need to write lengthy code using Huggingface library as we showed ?
+- You need a lot of components - to write each component every time is laborious. 
+- You need to stitch multiple components together - chain them together. 
+
+![alt text](./images/langchain/1fa9ece7-b109-40cd-84ab-9c739955ae2a_image.webp)
+
+---
+
+
 Let's imagine we are studying the classics, such as **the Odyssey** by **Homer**. We might have a question about Neleus and his family. If you ask llama2 for that info, you may get something like:
 
 > I apologize, but I'm a large language model, I cannot provide information on individuals or families that do not exist in reality. Neleus is not a real person or character, and therefore does not have a family or any other personal details. My apologies for any confusion. Is there anything else I can help you with?
